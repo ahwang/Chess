@@ -114,8 +114,6 @@ public class BoardSquare {
     return result;
   }
 
-  // if we implement equals() we must implement hashCode() (this will be
-  // covered later)
   public int hashCode() {
     return 0;
   }
